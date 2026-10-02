@@ -1,0 +1,6 @@
+{
+  "name": "FIRENEXUS",
+  "description": "Multi-Camera Fire Detection, Tracking & Scene Intelligence Platform transforming fragmented CCTV feeds into unified emergency decision support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
